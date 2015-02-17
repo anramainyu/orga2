@@ -1,0 +1,9 @@
+package Merkmale;
+
+/**
+ * Created by sschiefer on 17.02.2015.
+ */
+public enum EAbteilung
+{
+    TECHNIK, INVESTITIONEN,FAKTURA,RECHT,IT,VORSTAND,KUNDENSERVICE,CONTROLLING,INKASSO,RECHNUNGSWESEN
+}
